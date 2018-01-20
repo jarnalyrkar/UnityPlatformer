@@ -8,10 +8,6 @@ public class CameraCtrl : MonoBehaviour {
 	public float scale = 4f;
 	public float minX, maxX;
 	public float minY, maxY;
-	void Awake() {
-		var cam = GetComponent<Camera>();
-		cam.orthographicSize = (Screen.height / 2f) / scale;
-	}
 
 	// Use this for initialization
 	void Start () {

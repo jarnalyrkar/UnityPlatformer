@@ -23,6 +23,7 @@ public class BulletCtrl : MonoBehaviour {
 		if (other.gameObject.CompareTag("ENEMY")) {
 			Destroy(other.gameObject);
 			Destroy(gameObject);
+			SoundManager.PlaySound("playerHit");
 		}
 
 

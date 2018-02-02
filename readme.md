@@ -6,7 +6,13 @@ Just another 2D-platforming game made in Unity3D
 
 * Download the Build folder, and launch game.exe to try out the game.
   It is not by any means a finished game yet. There are no "quit game" button (unless you get killed by a frog), so just press Alt+F4 to quit.
-* Controls: A and D (or left and right arrow keys) to move, w to jump and space key to fire
+* Controls:
+	Action: 			Keyboard:						Joystick:
+  Jump:					Space								Button0
+  Shoot:				LCTRL, F 						Button1
+  Left:					A, Arrow Left				Left-Analog Left
+  Right:				W, Arrow Right			Left-Analog Right
+
 
 ## Built With
 

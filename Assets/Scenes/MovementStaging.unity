@@ -2306,8 +2306,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 1446
   newMaxY: -1000
   newMinX: 965
@@ -14106,8 +14104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -590
   newMinX: 965
@@ -14330,8 +14326,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -450
   newMinX: 965
@@ -14600,8 +14594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -290
   newMinX: 965
@@ -18946,15 +18938,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 82, y: -66, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_ObjectToInstantiate: {fileID: 0}
-      m_TileFlags: 1
-      m_ColliderType: 1
   - first: {x: 86, y: -66, z: 0}
     second:
       m_TileIndex: 8
@@ -19684,15 +19667,6 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
-  - first: {x: 82, y: -53, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_ObjectToInstantiate: {fileID: 0}
-      m_TileFlags: 1
-      m_ColliderType: 1
   - first: {x: 84, y: -53, z: 0}
     second:
       m_TileIndex: 8
@@ -20054,15 +20028,6 @@ Tilemap:
       m_TileFlags: 1
       m_ColliderType: 1
   - first: {x: 81, y: -47, z: 0}
-    second:
-      m_TileIndex: 8
-      m_TileSpriteIndex: 8
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_ObjectToInstantiate: {fileID: 0}
-      m_TileFlags: 1
-      m_ColliderType: 1
-  - first: {x: 83, y: -47, z: 0}
     second:
       m_TileIndex: 8
       m_TileSpriteIndex: 8
@@ -27334,7 +27299,7 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1376
+  - m_RefCount: 1373
     m_Data: {fileID: 11400000, guid: f9e321859cb78184c950042457e23aa7, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 4be01568d4dd6794eba928381aafbc3d, type: 2}
@@ -27355,12 +27320,12 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1376
+  - m_RefCount: 1373
     m_Data: {fileID: 21300036, guid: 4cb55f0e4f40109449fd953941d6bb64, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 21300090, guid: 4cb55f0e4f40109449fd953941d6bb64, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 1378
+  - m_RefCount: 1375
     m_Data:
       e00: 1
       e01: 0
@@ -27397,7 +27362,7 @@ Tilemap:
       e32: 0
       e33: 4.5907e-41
   m_TileColorArray:
-  - m_RefCount: 1378
+  - m_RefCount: 1375
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - m_RefCount: 0
     m_Data: {r: 0, g: 0, b: 21.71306, a: 1e-45}
@@ -27503,8 +27468,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -730
   newMinX: 965
@@ -27920,8 +27883,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -135
   newMinX: 965
@@ -27969,8 +27930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 1680
   newMaxY: -1000
   newMinX: 1680
@@ -28157,8 +28116,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddcfd3db305a4d94a98aa4afbcd46bc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newX: 0
-  newY: 0
   newMaxX: 965
   newMaxY: -860
   newMinX: 965

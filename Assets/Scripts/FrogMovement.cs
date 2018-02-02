@@ -17,6 +17,5 @@ public class FrogMovement : MonoBehaviour {
 		
 		body2D.velocity = new Vector2(-transform.localScale.x, 0) * speed;
 
-
 	}
 }

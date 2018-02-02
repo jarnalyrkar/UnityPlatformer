@@ -12,6 +12,8 @@ public class Player : MonoBehaviour {
 
 	Animator anim;
 
+	int hp = 20;
+
 	bool grounded;
 	public Transform groundCheck;
 	float groundRadius = 0.2f;
@@ -50,25 +52,33 @@ public class Player : MonoBehaviour {
 	}
 
 	void Update() {
-		if (grounded && Input.GetKeyDown(KeyCode.W)) {
+		// Jumping
+		if (grounded && Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.Space)) {
 			rigidbody2d.AddForce(new Vector2(0, jumpForce * jumpGravity));
 			SoundManager.PlaySound("jump");
 			anim.SetBool("Ground", false);
 		}
 
-		if (Input.GetKeyDown(KeyCode.Space)) {
+		//Shooting
+		if (Input.GetKeyDown(KeyCode.JoystickButton1) || 
+			Input.GetKeyDown(KeyCode.F) || 
+			Input.GetKeyDown(KeyCode.LeftControl)) {
 			Fire();
 		}
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-		if (other.gameObject.CompareTag("ENEMY")) {
+		if (other.gameObject.CompareTag("ENEMY") || other.gameObject.CompareTag("BULLET")) {
 			SoundManager.PlaySound("playerHit");
-			// lose HP ?
-			alive = false;
-			anim.SetBool("Alive", false);
-			// change scene to game over / continue screen
-			StartCoroutine(ChangeToScene("GameOver"));
+
+			hp--;
+			Debug.Log("HP left: " + hp);
+			if (hp == 0) {
+				alive = false;
+				anim.SetBool("Alive", false);
+				// change scene to game over / continue screen
+				StartCoroutine(ChangeToScene("GameOver"));
+			}
 		}
 	}
 

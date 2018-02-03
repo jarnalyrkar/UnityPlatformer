@@ -66,6 +66,11 @@ public class Player : MonoBehaviour {
 			Input.GetKeyDown(KeyCode.X)) {
 			Fire();
 		}
+
+		// Bør nok ligge i egen klasse for keyboard-controls..
+		if (Input.GetKeyDown(KeyCode.Escape)) {
+			Application.Quit();
+		}
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {

@@ -33,6 +33,12 @@ Just another 2D-platforming game made in Unity3D
 		<td>Arrow-Right</td>
 		<td>Left-Analog Right</td>
 	</tr>
+	<tr>
+		<td>Quit Game:</td>
+		<td>Escape</td>
+		<td>N/A</td>
+	</tr>
+
 </table>
 
 ## Built With

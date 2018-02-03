@@ -13,4 +13,5 @@ public class UIController : MonoBehaviour {
 		Application.Quit();
 		Debug.Log("Application quit.");
 	}
+		
 }

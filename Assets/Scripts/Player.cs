@@ -16,8 +16,9 @@ public class Player : MonoBehaviour {
 
 	bool grounded;
 	public Transform groundCheck;
-	float groundRadius = 0.2f;
+	float groundRadius = 2.0f;
 	public LayerMask whatIsGround;
+
 	public float jumpForce = 700f;
 	public float jumpGravity;
 	Transform firePos;
@@ -53,10 +54,11 @@ public class Player : MonoBehaviour {
 
 	void Update() {
 		// Jumping
-		if (grounded && Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.Space)) {
+		if (grounded && (Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.Space))) {
 			rigidbody2d.AddForce(new Vector2(0, jumpForce * jumpGravity));
 			SoundManager.PlaySound("jump");
 			anim.SetBool("Ground", false);
+			grounded = false;
 		}
 
 		//Shooting

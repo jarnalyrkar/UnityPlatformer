@@ -15,22 +15,22 @@ Just another 2D-platforming game made in Unity3D
 	</tr>
 	<tr>
 		<td>Jump:</td>
-		<td>Space</td>
+		<td>Z</td>
 		<td>Button0</td>
 	</tr>
 	<tr>
 		<td>Shoot:</td>
-		<td>LCTRL, F</td>
+		<td>X</td>
 		<td>Button1</td>
 	</tr>
 	<tr>
 		<td>Left:</td>
-		<td>A, Arrow-Left</td>
+		<td>Arrow-Left</td>
 		<td>Left-Analog Left</td>
 	</tr>
 	<tr>
 		<td>Right:</td>
-		<td>D, Arrow-Right</td>
+		<td>Arrow-Right</td>
 		<td>Left-Analog Right</td>
 	</tr>
 </table>

@@ -54,7 +54,7 @@ public class Player : MonoBehaviour {
 
 	void Update() {
 		// Jumping
-		if (grounded && (Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.Space))) {
+		if (grounded && (Input.GetKeyDown(KeyCode.JoystickButton0) || Input.GetKeyDown(KeyCode.Z))) {
 			rigidbody2d.AddForce(new Vector2(0, jumpForce * jumpGravity));
 			SoundManager.PlaySound("jump");
 			anim.SetBool("Ground", false);
@@ -63,8 +63,7 @@ public class Player : MonoBehaviour {
 
 		//Shooting
 		if (Input.GetKeyDown(KeyCode.JoystickButton1) || 
-			Input.GetKeyDown(KeyCode.F) || 
-			Input.GetKeyDown(KeyCode.LeftControl)) {
+			Input.GetKeyDown(KeyCode.X)) {
 			Fire();
 		}
 	}

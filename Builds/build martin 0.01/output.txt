@@ -1,0 +1,6 @@
+CreateDirectory 'C:/Users/jarnalyrkar/AppData/LocalLow/DefaultCompany' failed: The filename, directory name, or volume label syntax is incorrect.
+ (current dir: )
+CreateDirectory 'C:/Users/jarnalyrkar/AppData/LocalLow/DefaultCompany' failed: The filename, directory name, or volume label syntax is incorrect.
+ (current dir: )
+Mono path[0] = 'C:/Tingogtang/Code/C#/Platformer/Builds/build martin 0.01/game_Data/Managed'
+Mono config path = 'C:/Tingogtang/Code/C#/Platformer/Builds/build martin 0.01/game_Data/Mono/etc'

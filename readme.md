@@ -4,7 +4,7 @@ Just another 2D-platforming game made in Unity3D
 
 ## Getting Started
 
-* Download the Build folder, and launch game.exe to try out the game.
+* Download the project, and launch from Builds/build x.xx/game.exe to try out the game.
   It is not by any means a finished game yet.
 * Controls:
 <table>

@@ -9,7 +9,6 @@ public class Player : MonoBehaviour {
 	bool facingRight = true;
 	Rigidbody2D rigidbody2d;
 	public GameObject leftBullet, rightBullet;
-
 	Animator anim;
 
 	int hp = 20;
@@ -24,6 +23,9 @@ public class Player : MonoBehaviour {
 	Transform firePos;
 
 	public bool alive = true;
+
+	public float fireRate = 0.5f;
+	private float nextFire = 0.0f;
 
 	// Use this for initialization
 	void Start () {
@@ -62,9 +64,10 @@ public class Player : MonoBehaviour {
 		}
 
 		//Shooting
-		if (Input.GetKeyDown(KeyCode.JoystickButton1) || 
-			Input.GetKeyDown(KeyCode.X)) {
-			Fire();
+		if ((Input.GetKeyDown(KeyCode.JoystickButton1) || 
+			Input.GetKeyDown(KeyCode.X)) && Time.time > nextFire) {
+				nextFire = Time.time + fireRate;
+				Fire();
 		}
 
 		// Bør nok ligge i egen klasse for keyboard-controls..
@@ -74,7 +77,7 @@ public class Player : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-		if (other.gameObject.CompareTag("ENEMY") || other.gameObject.CompareTag("BULLET")) {
+		if (other.gameObject.CompareTag("ENEMY") || other.gameObject.CompareTag("ENEMYBULLET")) {
 			SoundManager.PlaySound("playerHit");
 
 			hp--;
@@ -96,6 +99,7 @@ public class Player : MonoBehaviour {
 
 	void Fire() {
 		SoundManager.PlaySound("fire");
+
 		if (facingRight) {
 			Instantiate(rightBullet, firePos.position, Quaternion.identity);
 		}

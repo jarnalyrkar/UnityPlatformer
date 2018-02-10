@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
+
 
 	public float maxSpeed = 10f;
 	bool facingRight = true;
@@ -11,7 +13,10 @@ public class Player : MonoBehaviour {
 	public GameObject leftBullet, rightBullet;
 	Animator anim;
 
-	int hp = 20;
+
+	public int hp = 20;
+	public Text hpText;
+
 
 	bool grounded;
 	public Transform groundCheck;
@@ -31,7 +36,7 @@ public class Player : MonoBehaviour {
 	void Start () {
 		rigidbody2d = GetComponent<Rigidbody2D>();
 		anim = GetComponent<Animator>();
-
+		SetHPText();
 		firePos = transform.Find("firePos");
 
 	}
@@ -81,7 +86,7 @@ public class Player : MonoBehaviour {
 			SoundManager.PlaySound("playerHit");
 
 			hp--;
-			Debug.Log("HP left: " + hp);
+			SetHPText();
 			if (hp == 0) {
 				alive = false;
 				anim.SetBool("Alive", false);
@@ -113,6 +118,10 @@ public class Player : MonoBehaviour {
 		Vector3 theScale = transform.localScale;
 		theScale.x *= -1;
 		transform.localScale = theScale;
+	}
+
+	public void SetHPText() {
+		hpText.text = "HP: " + hp.ToString();
 	}
 
 }

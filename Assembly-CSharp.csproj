@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\BulletCtrl.cs" />
      <Compile Include="Assets\Scripts\CameraCtrl.cs" />
      <Compile Include="Assets\Scripts\DestroyWithDelay.cs" />
+     <Compile Include="Assets\Scripts\EnemyBulletCtrl.cs" />
      <Compile Include="Assets\Scripts\EnemyEyesight.cs" />
      <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\EnemyShooting.cs" />
@@ -61,7 +62,9 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\SoundManager.cs" />
      <Compile Include="Assets\Scripts\SpawnMonsters.cs" />
+     <Compile Include="Assets\Scripts\UI\startgame.cs" />
      <Compile Include="Assets\Scripts\UIController.cs" />
+     <None Include="Assets\Fonts\Pixel Font - Tripfive\_README.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

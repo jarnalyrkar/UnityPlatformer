@@ -5,8 +5,8 @@ using UnityEngine;
 public class BulletCtrl : MonoBehaviour {
 
 	public Vector2 speed;
-	public string tag;
 	Rigidbody2D rb;
+	public string tag;
 
 	// Use this for initialization
 	void Start () {

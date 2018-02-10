@@ -21,9 +21,10 @@ GameObject:
   - component: {fileID: 4969691761650564}
   - component: {fileID: 33899969913425634}
   - component: {fileID: 23593129522745194}
-  - component: {fileID: 114062504600044794}
   - component: {fileID: 114721964442820762}
   - component: {fileID: 50274110780163988}
+  - component: {fileID: 70511242366159594}
+  - component: {fileID: 114573783221002324}
   m_Layer: 0
   m_Name: EnemyBullet
   m_TagString: ENEMYBULLET
@@ -92,7 +93,7 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1730836154578904}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -105,7 +106,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &114062504600044794
+--- !u!70 &70511242366159594
+CapsuleCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1730836154578904}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 1, y: 2}
+  m_Direction: 0
+--- !u!114 &114573783221002324
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -113,11 +129,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1730836154578904}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 85016de3a425dd44f9a8a51a413f55b5, type: 3}
+  m_Script: {fileID: 11500000, guid: db97feea7ee9c4747907e40081b8a9ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: -40, y: 0}
-  tag: Player
+  speed: {x: -150, y: 0}
+  playerObject: {fileID: 1618898658447986, guid: 4144db9569859ee4b83683e14fa6ae18,
+    type: 2}
 --- !u!114 &114721964442820762
 MonoBehaviour:
   m_ObjectHideFlags: 1

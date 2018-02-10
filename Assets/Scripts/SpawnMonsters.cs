@@ -11,6 +11,7 @@ public class SpawnMonsters : MonoBehaviour {
 	public Transform enemyGhost;
 	public Transform enemyBat;
 	private int triggerCounter;
+	List<GameObject> spawnedMonsters = new List<GameObject>();
 
 	void Start() {
 		triggerCounter = 0;
@@ -36,73 +37,76 @@ public class SpawnMonsters : MonoBehaviour {
 		// Set quaternion for flipping sprites
 		Quaternion rightDirection = Quaternion.identity;
 		rightDirection.eulerAngles = new Vector3(0, 180, 0);
-
+		GameObject monster;
 		// first horizontal section
 		if (cameraPos == triggers["Trigger 0"] && triggerCounter == 0) {
-			Instantiate(enemyFrog, new Vector2(100, 1), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(200, 1), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(280, 1), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(320, 1), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(400, 35), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(500, 65), Quaternion.identity);
-			Instantiate(enemySkelly, new Vector2(300, -30), Quaternion.identity);
-			Instantiate(enemySkelly, new Vector2(600, -30), Quaternion.identity);
-			Instantiate(enemyGhost, new Vector2(683, 1), Quaternion.identity);
-			Instantiate(enemyFrog, new Vector2(683, 70), Quaternion.identity);
-			Instantiate(enemyGhost, new Vector2(990, 32), Quaternion.identity);
-			Instantiate(enemyGhost, new Vector2(930, 0), rightDirection);
+
+			monster = Instantiate(enemySkelly, new Vector2(200, 87), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(100, 1), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(200, 1), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(280, 1), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(320, 1), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(400, 35), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(500, 65), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemySkelly, new Vector2(300, -30), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemySkelly, new Vector2(600, -30), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyGhost, new Vector2(683, 1), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(683, 70), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyGhost, new Vector2(990, 32), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyGhost, new Vector2(930, 0), rightDirection).gameObject;
+			spawnedMonsters.Add(monster);
+	
+			triggerCounter++;
+
+		} else if (cameraPos == triggers["Trigger 1"] && triggerCounter == 1) {
+			spawnedMonsters.ForEach(Destroy);
+
+			monster = Instantiate(enemyFrog, new Vector2(930, -149), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyFrog, new Vector2(975, -182), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
 
 			triggerCounter++;
-		}
 
-		// first vertical section
-		if (cameraPos == triggers["Trigger 1"] && triggerCounter == 1) {
-			Debug.Log("TRIGGERED 1");
+		} else if (cameraPos == triggers["Trigger 2"] && triggerCounter == 2) {
+			spawnedMonsters.ForEach(Destroy);
 
-			Instantiate(enemyFrog, new Vector2(100, 1), Quaternion.identity);
+			monster = Instantiate(enemyFrog, new Vector2(1000, -182), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+
 			triggerCounter++;
-		}
 
-		// second vertical section
-		if (cameraPos == triggers["Trigger 2"] && triggerCounter == 2) {
-			Debug.Log("TRIGGERED 2");
-			triggerCounter++;
-		}
-
-		// third vertical section
-		if (cameraPos == triggers["Trigger 3"] && triggerCounter == 3) {
+		} else if (cameraPos == triggers["Trigger 3"] && triggerCounter == 3) {
 			Debug.Log("TRIGGERED 3");
 			triggerCounter++;
-		}
-
-		// fourth vertical section
-		if (cameraPos == triggers["Trigger 4"] && triggerCounter == 4) {
+		} else if (cameraPos == triggers["Trigger 4"] && triggerCounter == 4) {
 			Debug.Log("TRIGGERED 4");
 			triggerCounter++;
-		}
-		// fifth vertical section
-		if (cameraPos == triggers["Trigger 5"] && triggerCounter == 5) {
+		} else if (cameraPos == triggers["Trigger 5"] && triggerCounter == 5) {
 			Debug.Log("TRIGGERED 5");
 			triggerCounter++;
-		}
-		// seventh vertical section
-		if (cameraPos == triggers["Trigger 6"] && triggerCounter == 6) {
+		} else if (cameraPos == triggers["Trigger 6"] && triggerCounter == 6) {
 			Debug.Log("TRIGGERED 6");
 			triggerCounter++;
-		}
-		// last horizontal section
-		if (cameraPos == triggers["Trigger 7"] && triggerCounter == 7) {
+		} else if (cameraPos == triggers["Trigger 7"] && triggerCounter == 7) {
 			Debug.Log("TRIGGERED 7");
 			triggerCounter++;
-		}
-		// Boss section
-		if (cameraPos == triggers["Trigger 8"] && triggerCounter == 8) {
+		} else if (cameraPos == triggers["Trigger 8"] && triggerCounter == 8) {
 			Debug.Log("TRIGGERED 8");
 			triggerCounter++;
 		}
-
-
-	
+			
 	}
-		
 }

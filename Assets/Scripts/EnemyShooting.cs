@@ -23,13 +23,12 @@ public class EnemyShooting : MonoBehaviour {
 
 		// Delay shooting
 		if (Time.time > nextFire) {
-			nextFire = Time.time + (fireRate * Random.Range(0.5f, 3f));
+			nextFire = Time.time + (fireRate * Random.Range(0.3f, 1.5f));
 			Fire();
 		}
 	}
 
 	void Fire() {
-		SoundManager.PlaySound("fire");
 
 		if (facingRight) {
 			Instantiate(rightBullet, firePos.position, Quaternion.identity);

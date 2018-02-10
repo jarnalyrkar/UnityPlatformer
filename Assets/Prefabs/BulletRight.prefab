@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: {x: 150, y: 0}
-  tag: ENEMY
+  tagString: ENEMY
 --- !u!114 &114234459198046976
 MonoBehaviour:
   m_ObjectHideFlags: 1

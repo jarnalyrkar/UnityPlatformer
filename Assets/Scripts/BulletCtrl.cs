@@ -6,7 +6,7 @@ public class BulletCtrl : MonoBehaviour {
 
 	public Vector2 speed;
 	Rigidbody2D rb;
-	public string tag;
+	public string tagString;
 
 	// Use this for initialization
 	void Start () {
@@ -20,7 +20,7 @@ public class BulletCtrl : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-		if (other.gameObject.CompareTag(tag)) {
+		if (other.gameObject.CompareTag(tagString)) {
 			Destroy(other.gameObject);
 			Destroy(gameObject);
 			SoundManager.PlaySound("playerHit");

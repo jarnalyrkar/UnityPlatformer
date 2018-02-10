@@ -1,10 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyBulletCtrl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyShooting.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player.cs" Line="125" Column="3" />
-      <File FileName="Assets\Scripts\EnemyBulletCtrl.cs" Line="12" Column="32" />
-      <File FileName="Assets\Scripts\BulletCtrl.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\EnemyShooting.cs" Line="26" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

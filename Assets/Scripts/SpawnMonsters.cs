@@ -14,7 +14,7 @@ public class SpawnMonsters : MonoBehaviour {
 
 	void Start() {
 		triggerCounter = 0;
-				
+
 		// Add triggers:
 		triggers.Add("Trigger 0", new Vector2(-35, 17));
 		triggers.Add("Trigger 1", new Vector2(965, -135));
@@ -29,8 +29,13 @@ public class SpawnMonsters : MonoBehaviour {
 
 	// Use this for initialization
 	void FixedUpdate () {
+		
 		cameraPos = new Vector2(Camera.main.transform.position.x,
 			Camera.main.transform.position.y);
+		
+		// Set quaternion for flipping sprites
+		Quaternion rightDirection = Quaternion.identity;
+		rightDirection.eulerAngles = new Vector3(0, 180, 0);
 
 		// first horizontal section
 		if (cameraPos == triggers["Trigger 0"] && triggerCounter == 0) {
@@ -42,6 +47,11 @@ public class SpawnMonsters : MonoBehaviour {
 			Instantiate(enemyFrog, new Vector2(500, 65), Quaternion.identity);
 			Instantiate(enemySkelly, new Vector2(300, -30), Quaternion.identity);
 			Instantiate(enemySkelly, new Vector2(600, -30), Quaternion.identity);
+			Instantiate(enemyGhost, new Vector2(683, 1), Quaternion.identity);
+			Instantiate(enemyFrog, new Vector2(683, 70), Quaternion.identity);
+			Instantiate(enemyGhost, new Vector2(990, 32), Quaternion.identity);
+			Instantiate(enemyGhost, new Vector2(930, 0), rightDirection);
+
 			triggerCounter++;
 		}
 
@@ -90,6 +100,9 @@ public class SpawnMonsters : MonoBehaviour {
 			Debug.Log("TRIGGERED 8");
 			triggerCounter++;
 		}
+
+
 	
 	}
+		
 }

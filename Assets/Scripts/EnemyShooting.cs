@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyShooting : MonoBehaviour {
 
-	public GameObject bullet;
+	public GameObject leftBullet, rightBullet;
 	public Transform firePos;
 	public float fireRate;
 	private float nextFire;
@@ -17,16 +17,26 @@ public class EnemyShooting : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (transform.transform.rotation.eulerAngles.y == 180) {
+			facingRight = true;
+		}
+
+		// Delay shooting
 		if (Time.time > nextFire) {
-			nextFire = Time.time + fireRate;
+			nextFire = Time.time + (fireRate * Random.Range(0.5f, 3f));
 			Fire();
 		}
 	}
 
 	void Fire() {
-		if (!facingRight) {
-			Instantiate(bullet, firePos.position, Quaternion.identity);
+		SoundManager.PlaySound("fire");
+
+		if (facingRight) {
+			Instantiate(rightBullet, firePos.position, Quaternion.identity);
 		}
 
+		if (!facingRight) {
+			Instantiate(leftBullet, firePos.position + new Vector3(10, 0, 0), Quaternion.identity);
+		}
 	}
 }

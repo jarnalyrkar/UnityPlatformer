@@ -14,7 +14,7 @@ public class Player : MonoBehaviour {
 	Animator anim;
 
 
-	public int hp = 20;
+	public int hp = 3;
 	public Text hpText;
 
 
@@ -52,6 +52,7 @@ public class Player : MonoBehaviour {
 		anim.SetFloat("Speed", Mathf.Abs(move));
 
 		rigidbody2d.velocity = new Vector2(move * maxSpeed, Mathf.Clamp(rigidbody2d.velocity.y, -150f, 500f));
+
 		if (move > 0 && !facingRight) {
 			Flip();
 		} else if (move < 0 && facingRight) {
@@ -82,7 +83,8 @@ public class Player : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-		if (other.gameObject.CompareTag("ENEMY") || other.gameObject.CompareTag("ENEMYBULLET")) {
+		if (other.gameObject.CompareTag("ENEMY")
+			|| other.gameObject.CompareTag("ENEMYBULLET")) {
 			SoundManager.PlaySound("playerHit");
 
 			hp--;

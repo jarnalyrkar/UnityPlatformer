@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class UIController : MonoBehaviour {
 
 	public void loadScene() {
-		SceneManager.LoadScene("MovementStaging");
+		SceneManager.LoadScene("Level1");
 	}
 
 	public void exitGame() {

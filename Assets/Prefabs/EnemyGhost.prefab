@@ -21,9 +21,9 @@ GameObject:
   - component: {fileID: 4417673622707038}
   - component: {fileID: 212942094742723428}
   - component: {fileID: 95381865309280984}
-  - component: {fileID: 58559304589026510}
   - component: {fileID: 50702183503348640}
   - component: {fileID: 114041205952740934}
+  - component: {fileID: 61967542590830268}
   m_Layer: 0
   m_Name: EnemyGhost
   m_TagString: ENEMY
@@ -87,14 +87,14 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 50
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!58 &58559304589026510
-CircleCollider2D:
+  m_Constraints: 1
+--- !u!61 &61967542590830268
+BoxCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -106,8 +106,18 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 16, y: 16}
+    newSize: {x: 0.16, y: 0.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Radius: 8
+  m_Size: {x: 16, y: 16}
+  m_EdgeRadius: 0
 --- !u!95 &95381865309280984
 Animator:
   serializedVersion: 3
@@ -136,7 +146,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da3b468308ba44e4caf958d4596b5a2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1730836154578904, guid: 550f39849ae00034ea36ec775eb19823, type: 2}
+  leftBullet: {fileID: 1817954204494804, guid: e2858fcf14e12434ebd067d90452eb96, type: 2}
+  rightBullet: {fileID: 1730836154578904, guid: 550f39849ae00034ea36ec775eb19823,
+    type: 2}
   firePos: {fileID: 4617430892317952}
   fireRate: 0.8
 --- !u!212 &212942094742723428

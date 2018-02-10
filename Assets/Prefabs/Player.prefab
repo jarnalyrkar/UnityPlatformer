@@ -57,7 +57,7 @@ GameObject:
   - component: {fileID: 114067619674560186}
   m_Layer: 8
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -195,6 +195,8 @@ MonoBehaviour:
   leftBullet: {fileID: 1077084370702232, guid: caab6a68c00443c4d9f2d37a2b47476a, type: 2}
   rightBullet: {fileID: 1077084370702232, guid: 844836df9463fe44b9c7f023e54642d7,
     type: 2}
+  hp: 3
+  hpText: {fileID: 0}
   groundCheck: {fileID: 4618517601196620}
   whatIsGround:
     serializedVersion: 2
@@ -202,6 +204,7 @@ MonoBehaviour:
   jumpForce: 700
   jumpGravity: 12
   alive: 1
+  fireRate: 0.3
 --- !u!212 &212734495937235564
 SpriteRenderer:
   m_ObjectHideFlags: 1

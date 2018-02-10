@@ -5,7 +5,7 @@ using UnityEngine;
 public class BulletCtrl : MonoBehaviour {
 
 	public Vector2 speed;
-
+	public string tag;
 	Rigidbody2D rb;
 
 	// Use this for initialization
@@ -20,10 +20,11 @@ public class BulletCtrl : MonoBehaviour {
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-		if (other.gameObject.CompareTag("ENEMY")) {
+		if (other.gameObject.CompareTag(tag)) {
 			Destroy(other.gameObject);
 			Destroy(gameObject);
 			SoundManager.PlaySound("playerHit");
+
 		}
 
 

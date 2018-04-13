@@ -3,6 +3,7 @@ SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Level1.unity
 Assets/Scenes/GameOver.unity
+Assets/Scenes/WinGame.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 970a95104359198fe1a98ef48655de8c UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -154,3 +155,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.EnemyMovement
 7a0f48fb129e472af6552a847bfd13a8 Assembly-CSharp.dll:.DestroyWithDelay
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UIController
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.WinTrigger

@@ -80,6 +80,7 @@ public class Player : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.Escape)) {
 			Application.Quit();
 		}
+			
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
@@ -96,7 +97,11 @@ public class Player : MonoBehaviour {
 				StartCoroutine(ChangeToScene("GameOver"));
 			}
 		}
+				if (other.gameObject.CompareTag("Finish")) {
+					ChangeToScene("WinGame");
+				}
 	}
+				
 
 
 	public IEnumerator ChangeToScene(string scene) {

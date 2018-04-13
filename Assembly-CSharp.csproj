@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\SpawnMonsters.cs" />
      <Compile Include="Assets\Scripts\UI\startgame.cs" />
      <Compile Include="Assets\Scripts\UIController.cs" />
+     <Compile Include="Assets\Scripts\WinTrigger.cs" />
      <None Include="Assets\Fonts\Pixel Font - Tripfive\_README.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

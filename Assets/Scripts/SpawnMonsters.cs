@@ -81,18 +81,34 @@ public class SpawnMonsters : MonoBehaviour {
 			triggerCounter++;
 
 		} else if (cameraPos == triggers["Trigger 2"] && triggerCounter == 2) {
+			Debug.Log("TRIGGERED 2");
 			spawnedMonsters.ForEach(Destroy);
 
-			monster = Instantiate(enemyFrog, new Vector2(1000, -182), Quaternion.identity).gameObject;
+			monster = Instantiate(enemyFrog, new Vector2(980, -300), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemySkelly, new Vector2(940, -350), Quaternion.identity).gameObject;
 			spawnedMonsters.Add(monster);
 
 			triggerCounter++;
 
 		} else if (cameraPos == triggers["Trigger 3"] && triggerCounter == 3) {
 			Debug.Log("TRIGGERED 3");
+			spawnedMonsters.ForEach(Destroy);
+
+			monster = Instantiate(enemySkelly, new Vector2(951, -440), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+
 			triggerCounter++;
 		} else if (cameraPos == triggers["Trigger 4"] && triggerCounter == 4) {
-			Debug.Log("TRIGGERED 4");
+			spawnedMonsters.ForEach(Destroy);
+
+			monster = Instantiate(enemySkelly, new Vector2(914, -405), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemySkelly, new Vector2(950, -435), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+			monster = Instantiate(enemyGhost, new Vector2(950, -535), Quaternion.identity).gameObject;
+			spawnedMonsters.Add(monster);
+
 			triggerCounter++;
 		} else if (cameraPos == triggers["Trigger 5"] && triggerCounter == 5) {
 			Debug.Log("TRIGGERED 5");

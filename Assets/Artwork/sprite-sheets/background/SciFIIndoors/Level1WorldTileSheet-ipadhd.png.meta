@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: 272d050752d0375409d11219d80527f8
+timeCreated: 1519587929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level1WorldTileSheet-ipadhd_0
+    21300002: Level1WorldTileSheet-ipadhd_1
+    21300004: Level1WorldTileSheet-ipadhd_2
+    21300006: Level1WorldTileSheet-ipadhd_3
+    21300008: Level1WorldTileSheet-ipadhd_4
+    21300010: Level1WorldTileSheet-ipadhd_5
+    21300012: Level1WorldTileSheet-ipadhd_6
+    21300014: Level1WorldTileSheet-ipadhd_7
+    21300016: Level1WorldTileSheet-ipadhd_8
+    21300018: Level1WorldTileSheet-ipadhd_9
+    21300020: Level1WorldTileSheet-ipadhd_10
+    21300022: Level1WorldTileSheet-ipadhd_11
+    21300024: Level1WorldTileSheet-ipadhd_12
+    21300026: Level1WorldTileSheet-ipadhd_13
+    21300028: Level1WorldTileSheet-ipadhd_14
+    21300030: Level1WorldTileSheet-ipadhd_15
+    21300032: Level1WorldTileSheet-ipadhd_16
+    21300034: Level1WorldTileSheet-ipadhd_17
+    21300036: Level1WorldTileSheet-ipadhd_18
+    21300038: Level1WorldTileSheet-ipadhd_19
+    21300040: Level1WorldTileSheet-ipadhd_20
+    21300042: Level1WorldTileSheet-ipadhd_21
+    21300044: Level1WorldTileSheet-ipadhd_22
+    21300046: Level1WorldTileSheet-ipadhd_23
+    21300048: Level1WorldTileSheet-ipadhd_24
+    21300050: Level1WorldTileSheet-ipadhd_25
+    21300052: Level1WorldTileSheet-ipadhd_26
+    21300054: Level1WorldTileSheet-ipadhd_27
+    21300056: Level1WorldTileSheet-ipadhd_28
+    21300058: Level1WorldTileSheet-ipadhd_29
+    21300060: Level1WorldTileSheet-ipadhd_30
+    21300062: Level1WorldTileSheet-ipadhd_31
+    21300064: Level1WorldTileSheet-ipadhd_32
+    21300066: Level1WorldTileSheet-ipadhd_33
+    21300068: Level1WorldTileSheet-ipadhd_34
+    21300070: Level1WorldTileSheet-ipadhd_35
+    21300072: Level1WorldTileSheet-ipadhd_36
+    21300074: Level1WorldTileSheet-ipadhd_37
+    21300076: Level1WorldTileSheet-ipadhd_38
+    21300078: Level1WorldTileSheet-ipadhd_39
+    21300080: Level1WorldTileSheet-ipadhd_40
+    21300082: Level1WorldTileSheet-ipadhd_41
+    21300084: Level1WorldTileSheet-ipadhd_42
+    21300086: Level1WorldTileSheet-ipadhd_43
+    21300088: Level1WorldTileSheet-ipadhd_44
+    21300090: Level1WorldTileSheet-ipadhd_45
+    21300092: Level1WorldTileSheet-ipadhd_46
+    21300094: Level1WorldTileSheet-ipadhd_47
+    21300096: Level1WorldTileSheet-ipadhd_48
+    21300098: Level1WorldTileSheet-ipadhd_49
+    21300100: Level1WorldTileSheet-ipadhd_50
+    21300102: Level1WorldTileSheet-ipadhd_51
+    21300104: Level1WorldTileSheet-ipadhd_52
+    21300106: Level1WorldTileSheet-ipadhd_53
+    21300108: Level1WorldTileSheet-ipadhd_54
+    21300110: Level1WorldTileSheet-ipadhd_55
+    21300112: Level1WorldTileSheet-ipadhd_56
+    21300114: Level1WorldTileSheet-ipadhd_57
+    21300116: Level1WorldTileSheet-ipadhd_58
+    21300118: Level1WorldTileSheet-ipadhd_59
+    21300120: Level1WorldTileSheet-ipadhd_60
+    21300122: Level1WorldTileSheet-ipadhd_61
+    21300124: Level1WorldTileSheet-ipadhd_62
+    21300126: Level1WorldTileSheet-ipadhd_63
+    21300128: Level1WorldTileSheet-ipadhd_64
+    21300130: Level1WorldTileSheet-ipadhd_65
+    21300132: Level1WorldTileSheet-ipadhd_66
+    21300134: Level1WorldTileSheet-ipadhd_67
+    21300136: Level1WorldTileSheet-ipadhd_68
+    21300138: Level1WorldTileSheet-ipadhd_69
+    21300140: Level1WorldTileSheet-ipadhd_70
+    21300142: Level1WorldTileSheet-ipadhd_71
+    21300144: Level1WorldTileSheet-ipadhd_72
+    21300146: Level1WorldTileSheet-ipadhd_73
+    21300148: Level1WorldTileSheet-ipadhd_74
+    21300150: Level1WorldTileSheet-ipadhd_75
+    21300152: Level1WorldTileSheet-ipadhd_76
+    21300154: Level1WorldTileSheet-ipadhd_77
+    21300156: Level1WorldTileSheet-ipadhd_78
+    21300158: Level1WorldTileSheet-ipadhd_79
+    21300160: Level1WorldTileSheet-ipadhd_80
+    21300162: Level1WorldTileSheet-ipadhd_81
+    21300164: Level1WorldTileSheet-ipadhd_82
+    21300166: Level1WorldTileSheet-ipadhd_83
+    21300168: Level1WorldTileSheet-ipadhd_84
+    21300170: Level1WorldTileSheet-ipadhd_85
+    21300172: Level1WorldTileSheet-ipadhd_86
+    21300174: Level1WorldTileSheet-ipadhd_87
+    21300176: Level1WorldTileSheet-ipadhd_88
+    21300178: Level1WorldTileSheet-ipadhd_89
+    21300180: Level1WorldTileSheet-ipadhd_90
+    21300182: Level1WorldTileSheet-ipadhd_91
+    21300184: Level1WorldTileSheet-ipadhd_92
+    21300186: Level1WorldTileSheet-ipadhd_93
+    21300188: Level1WorldTileSheet-ipadhd_94
+    21300190: Level1WorldTileSheet-ipadhd_95
+    21300192: Level1WorldTileSheet-ipadhd_96
+    21300194: Level1WorldTileSheet-ipadhd_97
+    21300196: Level1WorldTileSheet-ipadhd_98
+    21300198: Level1WorldTileSheet-ipadhd_99
+    21300200: Level1WorldTileSheet-ipadhd_100
+    21300202: Level1WorldTileSheet-ipadhd_101
+    21300204: Level1WorldTileSheet-ipadhd_102
+    21300206: Level1WorldTileSheet-ipadhd_103
+    21300208: Level1WorldTileSheet-ipadhd_104
+    21300210: Level1WorldTileSheet-ipadhd_105
+    21300212: Level1WorldTileSheet-ipadhd_106
+    21300214: Level1WorldTileSheet-ipadhd_107
+    21300216: Level1WorldTileSheet-ipadhd_108
+    21300218: Level1WorldTileSheet-ipadhd_109
+    21300220: Level1WorldTileSheet-ipadhd_110
+    21300222: Level1WorldTileSheet-ipadhd_111
+    21300224: Level1WorldTileSheet-ipadhd_112
+    21300226: Level1WorldTileSheet-ipadhd_113
+    21300228: Level1WorldTileSheet-ipadhd_114
+    21300230: Level1WorldTileSheet-ipadhd_115
+    21300232: Level1WorldTileSheet-ipadhd_116
+    21300234: Level1WorldTileSheet-ipadhd_117
+    21300236: Level1WorldTileSheet-ipadhd_118
+    21300238: Level1WorldTileSheet-ipadhd_119
+    21300240: Level1WorldTileSheet-ipadhd_120
+    21300242: Level1WorldTileSheet-ipadhd_121
+    21300244: Level1WorldTileSheet-ipadhd_122
+    21300246: Level1WorldTileSheet-ipadhd_123
+    21300248: Level1WorldTileSheet-ipadhd_124
+    21300250: Level1WorldTileSheet-ipadhd_125
+    21300252: Level1WorldTileSheet-ipadhd_126
+    21300254: Level1WorldTileSheet-ipadhd_127
+    21300256: Level1WorldTileSheet-ipadhd_128
+    21300258: Level1WorldTileSheet-ipadhd_129
+    21300260: Level1WorldTileSheet-ipadhd_130
+    21300262: Level1WorldTileSheet-ipadhd_131
+    21300264: Level1WorldTileSheet-ipadhd_132
+    21300266: Level1WorldTileSheet-ipadhd_133
+    21300268: Level1WorldTileSheet-ipadhd_134
+    21300270: Level1WorldTileSheet-ipadhd_135
+    21300272: Level1WorldTileSheet-ipadhd_136
+    21300274: Level1WorldTileSheet-ipadhd_137
+    21300276: Level1WorldTileSheet-ipadhd_138
+    21300278: Level1WorldTileSheet-ipadhd_139
+    21300280: Level1WorldTileSheet-ipadhd_140
+    21300282: Level1WorldTileSheet-ipadhd_141
+    21300284: Level1WorldTileSheet-ipadhd_142
+    21300286: Level1WorldTileSheet-ipadhd_143
+    21300288: Level1WorldTileSheet-ipadhd_144
+    21300290: Level1WorldTileSheet-ipadhd_145
+    21300292: Level1WorldTileSheet-ipadhd_146
+    21300294: Level1WorldTileSheet-ipadhd_147
+    21300296: Level1WorldTileSheet-ipadhd_148
+    21300298: Level1WorldTileSheet-ipadhd_149
+    21300300: Level1WorldTileSheet-ipadhd_150
+    21300302: Level1WorldTileSheet-ipadhd_151
+    21300304: Level1WorldTileSheet-ipadhd_152
+    21300306: Level1WorldTileSheet-ipadhd_153
+    21300308: Level1WorldTileSheet-ipadhd_154
+    21300310: Level1WorldTileSheet-ipadhd_155
+    21300312: Level1WorldTileSheet-ipadhd_156
+    21300314: Level1WorldTileSheet-ipadhd_157
+    21300316: Level1WorldTileSheet-ipadhd_158
+    21300318: Level1WorldTileSheet-ipadhd_159
+    21300320: Level1WorldTileSheet-ipadhd_160
+    21300322: Level1WorldTileSheet-ipadhd_161
+    21300324: Level1WorldTileSheet-ipadhd_162
+    21300326: Level1WorldTileSheet-ipadhd_163
+    21300328: Level1WorldTileSheet-ipadhd_164
+    21300330: Level1WorldTileSheet-ipadhd_165
+    21300332: Level1WorldTileSheet-ipadhd_166
+    21300334: Level1WorldTileSheet-ipadhd_167
+    21300336: Level1WorldTileSheet-ipadhd_168
+    21300338: Level1WorldTileSheet-ipadhd_169
+    21300340: Level1WorldTileSheet-ipadhd_170
+    21300342: Level1WorldTileSheet-ipadhd_171
+    21300344: Level1WorldTileSheet-ipadhd_172
+    21300346: Level1WorldTileSheet-ipadhd_173
+    21300348: Level1WorldTileSheet-ipadhd_174
+    21300350: Level1WorldTileSheet-ipadhd_175
+    21300352: Level1WorldTileSheet-ipadhd_176
+    21300354: Level1WorldTileSheet-ipadhd_177
+    21300356: Level1WorldTileSheet-ipadhd_178
+    21300358: Level1WorldTileSheet-ipadhd_179
+    21300360: Level1WorldTileSheet-ipadhd_180
+    21300362: Level1WorldTileSheet-ipadhd_181
+    21300364: Level1WorldTileSheet-ipadhd_182
+    21300366: Level1WorldTileSheet-ipadhd_183
+    21300368: Level1WorldTileSheet-ipadhd_184
+    21300370: Level1WorldTileSheet-ipadhd_185
+    21300372: Level1WorldTileSheet-ipadhd_186
+    21300374: Level1WorldTileSheet-ipadhd_187
+    21300376: Level1WorldTileSheet-ipadhd_188
+    21300378: Level1WorldTileSheet-ipadhd_189
+    21300380: Level1WorldTileSheet-ipadhd_190
+    21300382: Level1WorldTileSheet-ipadhd_191
+    21300384: Level1WorldTileSheet-ipadhd_192
+    21300386: Level1WorldTileSheet-ipadhd_193
+    21300388: Level1WorldTileSheet-ipadhd_194
+    21300390: Level1WorldTileSheet-ipadhd_195
+    21300392: Level1WorldTileSheet-ipadhd_196
+    21300394: Level1WorldTileSheet-ipadhd_197
+    21300396: Level1WorldTileSheet-ipadhd_198
+    21300398: Level1WorldTileSheet-ipadhd_199
+    21300400: Level1WorldTileSheet-ipadhd_200
+    21300402: Level1WorldTileSheet-ipadhd_201
+    21300404: Level1WorldTileSheet-ipadhd_202
+    21300406: Level1WorldTileSheet-ipadhd_203
+    21300408: Level1WorldTileSheet-ipadhd_204
+    21300410: Level1WorldTileSheet-ipadhd_205
+    21300412: Level1WorldTileSheet-ipadhd_206
+    21300414: Level1WorldTileSheet-ipadhd_207
+    21300416: Level1WorldTileSheet-ipadhd_208
+    21300418: Level1WorldTileSheet-ipadhd_209
+    21300420: Level1WorldTileSheet-ipadhd_210
+    21300422: Level1WorldTileSheet-ipadhd_211
+    21300424: Level1WorldTileSheet-ipadhd_212
+    21300426: Level1WorldTileSheet-ipadhd_213
+    21300428: Level1WorldTileSheet-ipadhd_214
+    21300430: Level1WorldTileSheet-ipadhd_215
+    21300432: Level1WorldTileSheet-ipadhd_216
+    21300434: Level1WorldTileSheet-ipadhd_217
+    21300436: Level1WorldTileSheet-ipadhd_218
+    21300438: Level1WorldTileSheet-ipadhd_219
+    21300440: Level1WorldTileSheet-ipadhd_220
+    21300442: Level1WorldTileSheet-ipadhd_221
+    21300444: Level1WorldTileSheet-ipadhd_222
+    21300446: Level1WorldTileSheet-ipadhd_223
+    21300448: Level1WorldTileSheet-ipadhd_224
+    21300450: Level1WorldTileSheet-ipadhd_225
+    21300452: Level1WorldTileSheet-ipadhd_226
+    21300454: Level1WorldTileSheet-ipadhd_227
+    21300456: Level1WorldTileSheet-ipadhd_228
+    21300458: Level1WorldTileSheet-ipadhd_229
+    21300460: Level1WorldTileSheet-ipadhd_230
+    21300462: Level1WorldTileSheet-ipadhd_231
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 6
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_44
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_55
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_57
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_58
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_59
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_71
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_74
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_82
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_84
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_87
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_88
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_89
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_95
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_96
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_97
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_98
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_100
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_101
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_102
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_103
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_104
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_109
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_110
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_111
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_113
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_114
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_115
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_117
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_119
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_121
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_124
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_125
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_126
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_130
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_131
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_132
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_133
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_134
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_137
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_140
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_141
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_142
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_143
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_144
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_145
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_147
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_148
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_149
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_152
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_155
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_156
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_157
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_158
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_159
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_160
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_161
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_162
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_163
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_164
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_167
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_168
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_169
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_170
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_171
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_172
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_173
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_174
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_175
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_176
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_177
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_178
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_179
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_181
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_182
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_184
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_185
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_186
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_187
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_188
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_189
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_190
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_191
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_192
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_193
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_194
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_196
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_197
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_198
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_199
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_200
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_201
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_202
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_203
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_204
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_205
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_206
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_207
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_208
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_209
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_210
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_211
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_212
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Level1WorldTileSheet-ipadhd_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

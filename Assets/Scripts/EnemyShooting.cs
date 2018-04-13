@@ -23,7 +23,7 @@ public class EnemyShooting : MonoBehaviour {
 
 		// Delay shooting
 		if (Time.time > nextFire) {
-			nextFire = Time.time + (fireRate * Random.Range(0.3f, 1.5f));
+			nextFire = Time.time + (fireRate * Random.Range(0.6f, 1.5f));
 			Fire();
 		}
 	}

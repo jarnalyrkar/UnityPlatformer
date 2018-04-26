@@ -116,6 +116,7 @@ ac87c0d8fa9f171499cf10f8cf6f0112 Assembly-CSharp.dll:.SpawnMonsters
 f830aa03d16a6b5a1117d842e3ae9326 Assembly-CSharp.dll:.EnemyEyesight
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.WinTrigger
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -155,4 +156,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.EnemyMovement
 7a0f48fb129e472af6552a847bfd13a8 Assembly-CSharp.dll:.DestroyWithDelay
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UIController
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.WinTrigger
